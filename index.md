@@ -10,3 +10,12 @@ title: Example
 - Some event
 - Another exciting event
 - More news
+
+## Example haiku
+
+Emperor pondered
+
+until the gravel departed
+
+and the crayons played
+
