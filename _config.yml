@@ -1,6 +1,6 @@
 title: Example project
 description: Project description in here.
-theme: minima
+theme: hacker
 header_pages:
  - about.md
  - team.md
